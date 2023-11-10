@@ -1,2 +1,4 @@
 /node_modules/
 /.env
+/data/urls_in.csv
+/data/urls_out.csv

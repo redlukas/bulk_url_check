@@ -35,4 +35,4 @@ jobs:
           context: .
           platforms: linux/amd64,linux/arm64
           push: true
-          tags: redlukas/sample:latest
+          tags: redlukas/bulk_url_check:latest
