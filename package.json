@@ -17,7 +17,7 @@
     "csv-writer": "^1.6.0",
     "dotenv": "^16.0.3",
     "log4js": "^6.7.1",
-    "mongoose": "^8.0.0",
+    "mongoose": "^8.0.2",
     "progress": "^2.0.3"
   }
 }
